@@ -8,3 +8,5 @@ When wages increase for average households, each hour of work becomes more finan
 
 3. Higher wages decrease labor supply for billionaires
 For extremely wealthy individuals, higher wages often have the opposite effect. Since billionaires already have enormous wealth, their desire for additional income is less pressing. When their wages increase, they can maintain their luxurious lifestyle while working fewer hours. The value they place on free time exceeds the value of additional income. They essentially "buy back" their time when their earnings power increases further.
+
+
