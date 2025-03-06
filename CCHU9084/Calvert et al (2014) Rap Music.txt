@@ -1,0 +1,1453 @@
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+Rap Music and the True Threats Quagmire: When Does One
+Man’s Lyric Become Another’s Crime?
+By Clay Calvert,* Emma Morehart** and Sarah Papadelias***
+ABSTRACT
+This Article examines the complex and unsettled state of the true threats
+doctrine through the lens of the equally complicated, controversial and multifaceted musical genre of rap. Rap, although generally protected by the First
+Amendment, is frequently caught in the crosshairs of criminal prosecutions
+focusing on whether or not it constitutes a true threat of violence. Ultimately, this
+Article offers suggestions for how to clarify the doctrinal issues, with rap
+illustrating and supporting those ideas.
+INTRODUCTION
+In analyzing whether the First Amendment guarantee of free speech1 safeguards
+the right to wear a jacket emblazoned with the expletive-imbued message “Fuck the
+Draft” in a public courthouse, the Supreme Court wrote more than forty years ago
+in Cohen v. California that “one man’s vulgarity is another’s lyric.”2 Professor
+Alex Long recently pointed out that “the success and widespread appeal of gangsta
+rap proves Justice John Marshall Harlan’s observation in Cohen.”3 But the Cohen
+aphorism also illustrates a more pernicious problem when it comes to the
+intersection of rap lyrics and the First Amendment. In particular, the maxim
+
+* Professor & Brechner Eminent Scholar in Mass Communication and Director of the Marion
+B. Brechner First Amendment Project at the University of Florida, Gainesville. Stanford University,
+B.A., Communication, 1987; McGeorge School of Law, University of the Pacific, J.D. (Order of the
+Coif), 1991; Stanford University, Ph.D., Communication, 1996. Member, State Bar of California. The
+authors thank Alexa Jacobson of the University of Florida for her excellent research and editing
+assistance that greatly contributed to this article.
+** Graduate Research Fellow, Marion B. Brechner First Amendment Project. Ohio University,
+B.S., Journalism, 2012.
+*** Graduate Research Fellow, Marion B. Brechner First Amendment Project. University of
+Alabama, B.A., Classics, 2012.
+1. The First Amendment to the U.S. Constitution provides, in pertinent part, that “Congress shall
+make no law . . . abridging the freedom of speech, or of the press.” U.S. CONST. amend. I. The Free
+Speech and Free Press Clauses were incorporated nearly ninety years ago through the Fourteenth
+Amendment Due Process Clause as fundamental liberties to apply to state and local government entities
+and officials. See Gitlow v. New York, 268 U.S. 652, 666 (1925).
+2. Cohen v. California, 403 U.S. 15, 25 (1971).
+3. Alex B. Long, [Insert Song Lyrics Here]: The Uses and Misuses of Popular Music Lyrics in
+Legal Writing, 64 WASH. & LEE L. REV. 531, 543 (2007).
+
+1
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+2
+
+COLUMBIA JOURNAL OF LAW & THE ARTS
+
+[38:1
+
+demonstrates the difficulty of distinguishing between protected, artistic musical
+expression4 and unprotected threats of violence.5
+The relevance of this problem is more than academic or speculative. While it is
+clear that rap music generally is protected by the First Amendment,6 rap lyrics
+sometimes constitute unprotected threats of violence.7 In November 2013, for
+instance, two Pennsylvania men—twenty-two-year-old Rashee Beasley and
+nineteen-year-old Jamal Knox—were convicted of making terroristic threats based
+on a rap video that named two police officers who had previously arrested Beasley
+and Knox.8 Allegheny County Judge Jeffrey Manning concluded the video was
+“not protected by the First Amendment because it far exceeds what the First
+Amendment allows.”9
+The video, which was posted on YouTube in 2012, “mentions convicted cop
+killer Richard Poplawski and advocates killing city officers.”10 The song included,
+among others, the lyrics “let’s kill these cops ‘cause they don’t do us no good”11
+and “[w]ell, your shift over at 3, and I’m gonna [expletive] up where you sleep.”12
+The video included two photographs, one featuring Beasley and Knox, who rapped
+under the stage names Mayhem Mal and Soulja Beaz, “posing in white shirts and
+another showing them posing in camouflage inside a convenience store.”13
+This case is not isolated. In 2011, a twenty-six-year-old aspiring rapper named
+Olutosin Oduwole was sentenced to five years in prison for what he maintained
+
+4. See Ward v. Rock Against Racism, 491 U.S. 781, 790 (1989) (“Music, as a form of
+expression and communication, is protected under the First Amendment.”); see also Schad v. Borough
+of Mt. Ephraim, 452 U.S. 61, 65 (1981) (“Entertainment, as well as political and ideological speech, is
+protected; motion pictures, programs broadcast by radio and television, and live entertainment, such as
+musical and dramatic works, fall within the First Amendment guarantee.” (emphasis added)).
+5. See Virginia v. Black, 538 U.S. 343, 359 (2003) (observing that the First Amendment permits
+states to ban true threats of violence).
+6. Betts v. McCaughtry, 827 F. Supp. 1400, 1406 (W.D. Wis. 1993) (“It is undisputed that rap
+music constitutes speech protected by the First Amendment.”). In addition to the true threats doctrine,
+another exception to First Amendment protection for rap music would occur if the lyrics were held to be
+obscene. See Luke Records, Inc. v. Navarro, 960 F.2d 134, 138í39 (11th Cir. 1992) (reversing an
+obscenity conviction arising from the lyrics of “As Nasty As They Wanna Be” by the rap group 2 Live
+Crew).
+7. See Jones v. Arkansas, 64 S.W.3d 728, 737 (Ark. 2002) (holding “that because [defendant]
+Jones’s rap lyrics constituted a true threat to Arnold, the rap song is not protected by the First
+Amendment”).
+8. Paula Reed Ward, Pittsburgh Rappers Convicted After Threats Against Police in YouTube
+Video, PITTSBURGH POST-GAZETTE (Nov. 21, 2013), http://perma.cc/78QN-24LU.
+9. Id.
+10. Adam Brandolph, Judge Appoints New Lawyer for East Liberty Man Accused of Making
+Video Critical of Police, PITTSBURGH TRIB.-REV. (Sept. 30, 2013), http://perma.cc/4DJ3-UECF.
+Poplawski was sentenced to death by a twelve-person jury in June 2011 for killing three Pittsburgh
+police officers in April 2009. Paula Reed Ward, Poplawksi Gets Death, PITTSBURGH POST-GAZETTE,
+June 29, 2011, at A1.
+11. Margaret Harding, Online Rap Video Urges Killing of Pittsburgh Police, PITTSBURGH
+TRIBUNE-REV. (Nov. 17, 2012), http://perma.cc/XMF4-9THC.
+12. Liz Navratil, 2 Rappers Sought for Video Threats on Police, PITTSBURGH POST-GAZETTE,
+Nov. 17, 2012, at B1.
+13. Id.
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+2014]
+
+RAP MUSIC AND THE TRUE THREATS QUAGMIRE
+
+3
+
+“were merely possible lyrics for a rap song.”14 In March 2013, however, an Illinois
+appellate court reversed Oduwole’s conviction for attempting to make a terrorist
+threat.15 The appellate court noted that an expert witness, Dr. Charis Kubrin of the
+University of CaliforniaíIrvine, testified that the writings in question “constituted
+the formative stages of a rap song.”16
+Numerous other courts in the past three years, in fact, addressed similar issues
+arising either at or near the intersection of rap lyrics and true threats,17 including
+the Court of Appeals for the Third Circuit in September 2013 in United States v.
+Elonis.18 As counsel for Anthony Elonis noted to the Supreme Court in the petition
+for a writ of certiorari, the online postings that landed Elonis in trouble with the law
+were “frequently in the form of rap lyrics” and “the language was—as with popular
+rap songs addressing the same themes—sometimes violent.”19
+This spate of cases may seem somewhat surprising because it has been more
+than twenty years since Ice-T’s metal band, Body Count, released “Cop Killer”20—
+a song, described by one federal appellate court as a “virulent rap song,”21 that
+
+14. Terry Hillig, Attorneys Plan Appeal of Student’s Sentence, ST. LOUIS POST-DISPATCH, Dec.
+22, 2011, at A4.
+15. People v. Oduwole, 985 N.E.2d 316 (Ill. App. Ct. 2013), appeal denied, 2013 Ill. LEXIS 796
+(Ill. May 29, 2013).
+16. Id. at 324í25.
+17. See, e.g., United States v. Jeffries, 692 F.3d 473, 475–82, cert. denied, 134 S. Ct. 59 (2013)
+(analyzing a song done in a style that was “part country, part rap, sometimes on key, and surely
+therapeutic”; describing it as “unusual or at least a sign of the times that the vehicle for this threat was a
+music video” and concluding that the defendant “cannot insulate his menacing speech from proscription
+by conveying it in a music video”); Baumgartner v. Eppinger, 2013 U.S. Dist. LEXIS 139639, at *15–19
+(N.D. Ohio Sept. 27, 2013) (rejecting a challenge to a “conviction and sentence for intimidation and
+retaliation related to the posting of a modified version of a rap song on the Internet,” and noting that
+“[t]he victims in the underlying case at bar fled the State of Ohio for a period of time after Petitioner
+posted the altered rap song on the Internet”); TC v. Valley Cent. Sch. Dist., 777 F. Supp. 2d 577, 590–92
+(S.D.N.Y. 2011) (discussing a student’s claim that his public school violated his First Amendment right
+of free speech “when he was punished for possessing his rap song,” in which he “talks about shooting
+‘niggas’ and makes other racial references,” and finding that student’s claim survived a motion to
+dismiss because, in part, there was no indication the student “shared the lyrics, that they were viewable
+on his desk or otherwise published to [his] classmates or teachers”); In re S.W., 45 A.3d 151 (D.C.
+2012) (addressing whether the defendant’s modified version of a Lil Wayne song constituted a true
+threat); Holcomb v. Virginia, 709 S.E.2d 711 (Va. Ct. App. 2011) (considering whether lyrics posted on
+MySpace by the defendant, who considered himself something of a rap lyricist, constituted a true threat).
+18. United States v. Elonis, 730 F.3d 321 (3d Cir. 2013). In Elonis, the Third Circuit noted the
+target of the threats testified that the defendant, Anthony Elonis, “rarely listened to rap music, and that
+she had never seen Elonis write rap lyrics during their seven years of marriage” and that “the lyric form
+of the statements did not make her take the threats any less seriously”. Id. at 325.
+19. Petition for Writ of Certiorari at 5, Elonis v. United States, 2013 U.S. Briefs 983 (Feb. 14,
+2014) (No. 13-983) [hereinafter Elonis Petition]. The Court granted certiorari and oral argument is
+scheduled for December 1, 2014. Elonis v. United States, 134 S. Ct. 2819 (2014) (grant of certiorari);
+see SUPREME COURT OF THE U.S., OCTOBER TERM 2014, MONTHLY ORAL ARGUMENT CALENDAR FOR
+THE SESSION BEGINNING DECEMBER 1, 2014 (2014), available at http://perma.cc/KDB9-HPAT (oral
+argument schedule).
+20. BODY COUNT, Cop Killer, on BODY COUNT (Warner Bros. 1992).
+21. United States v. Jefferson, 974 F.2d 201, 208 (D.C. Cir. 1992). Although “Cop Killer” was
+recorded by a prominent rap artist (Ice-T) and features a “rap mentality,” “it technically is not a rap
+song” because it was “recorded and released by Ice-T’s speed metal band, Body Count.” Jon
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+4
+
+COLUMBIA JOURNAL OF LAW & THE ARTS
+
+[38:1
+
+caused cultural controversy with lyrics such as “I’m ‘bout to bust some shots off /
+I’m ‘bout to dust some cops off” and “fuck the police.”22 Indeed, as Professor
+Linda McClain wrote back in 1994 regarding the turmoil caused by that song, “The
+controversy over rap lyrics is part of a larger debate over representations of
+violence and the alleged link to violent and other anti-social behavior, particularly
+when an audience of young people and the possibility of imitative conduct are
+involved.”23 But deciding what constitutes a true threat of violence and in
+particular when rap lyrics constitute such a threat remains unsettled.
+True threats, which represent one of only a handful of categories of speech
+falling outside the ambit of First Amendment protection,24 are defined generally by
+the Supreme Court as “those statements where the speaker means to communicate a
+serious expression of an intent to commit an act of unlawful violence to a particular
+individual or group of individuals.”25 As this Article illustrates, however, the true
+threats doctrine today is plagued by disagreements among lower courts over
+nuances that arguably leave rap music caught in its crosshairs.26
+This Article thus uses rap music as a vehicle for analyzing these problems
+because, like the true threats doctrine itself, rap music is complex, constituting “an
+urban, often urbane, melange of politics, rock ‘n roll, rhythm and blues, African
+vocal traditions, and modern technology.”27 In addition, because rap often features
+a political component—speech at the heart of First Amendment protection28—it
+exacerbates problems in deciphering what constitutes a true threat. Moreover, rap
+
+Christopher Wolfe, Comment, Sex, Violence and Profanity: Rap Music and the First Amendment, 44
+MERCER L. REV. 667, 668 n.5 (1993).
+22. See David Crump, Camouflaged Incitement: Freedom of Speech, Communicative Torts, and
+the Borderland of the Brandenburg Test, 29 GA. L. REV. 1, 2–4 (1994) (setting forth these and other
+lyrics to “Cop Killer”).
+23. Linda C. McClain, Rights and Irresponsibility, 43 DUKE L.J. 989, 1063 n.294 (1994).
+24. See United States v. Alvarez, 132 S. Ct. 2537, 2544 (2012) (identifying “true threats,” along
+with incitement of imminent lawless action, obscenity, defamation, speech integral to criminal conduct,
+fighting words, child pornography and fraud, as unprotected categories of expression); Ashcroft v. Free
+Speech Coal., 535 U.S. 234, 245í46 (2002) (noting that the First Amendment does “not embrace certain
+categories of speech, including defamation, incitement, obscenity and pornography produced with real
+children”).
+25. Virginia v. Black, 538 U.S. 343, 359 (2003).
+26. See, e.g., United States v. Elonis, 730 F.3d 321, 323 (3d Cir. 2013) (finding that a jury is not
+required to find that “the defendant subjectively intended his statements to be understood as threats” in
+order to find that the statements were a true threat, and noting the disagreement on this question between
+the Court of Appeals for the Ninth Circuit and a majority of the federal appellate circuits); United States
+v. Turner, 720 F.3d 411, 420 n.4 (2d Cir. 2013) (observing that since the Supreme Court’s ruling in the
+true threats case of Virginia v. Black, 538 U.S. 343 (2003), “some disagreement has arisen among our
+sister circuits regarding whether Black altered or overruled the traditional objective test for true threats
+by requiring that the speaker subjectively intend to intimidate the recipient of the threat,” and including
+a dissenting opinion that concluded that the speech in question was not a true threat, as the majority
+found it, but rather constituted an incitement of violence).
+27. Jeffrey B. Kahan, Bach, Beethoven and the (Home)Boys: Censoring Violent Rap Music in
+America, 66 S. CAL. L. REV. 2583, 2583 (1993).
+28. See Citizens United v. Fed. Election Comm’n, 558 U.S. 310, 329 (2010) (opining that
+political speech “is central to the meaning and purpose of the First Amendment”).
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+2014]
+
+RAP MUSIC AND THE TRUE THREATS QUAGMIRE
+
+5
+
+frequently embraces hyperbole,29 and the Supreme Court made it clear forty-five
+years ago that political hyperbole, standing alone, does not amount to a true
+threat.30 Furthermore, although some forms of rap music may contain violently
+themed lyrics, the Supreme Court was unequivocal in Brown v. Entertainment
+Merchants Ass’n that there is no exception to First Amendment protection for
+violence-based entertainment content.31
+All of these complexities are arguably compounded because, as Jason Powell
+notes, rap is “not an area of expertise for the average judiciary. In spite of the fact
+that hip-hop is now a well-recognized and accepted genus of music, it is mostly a
+foreign language to courts, and is treated accordingly.”32
+This is particularly troubling in true threats cases because the central factual
+question in them is “the meaning that is properly assigned to a speaker’s
+communication. The assignment of meaning is typically bound up with its cultural
+context, which frequently extends far beyond the speaker’s literal words.”33 As
+indicated by the oral argument before the Supreme Court in Air Wisconsin Airlines
+Corp. v. Hoeper, sorting out the meaning of words is never easy.34 Ultimately,
+then, “[s]eparating graphic language and emotional exaggeration from genuine
+threats is an old First Amendment problem.”35
+The issues, then, that this Article tackles are the problems in determining
+whether or not any particular instance of rap music constitutes a true threat of
+violence. These are very different questions from another important issue—one
+already addressed elsewhere—of whether rap lyrics may be admitted as evidence to
+prove the commission of another crime36 or when rap music or rappers allegedly
+29. See Jennifer C. Lena, Social Context and Musical Content of Rap Music, 1979–1995, 85 SOC.
+FORCES 479, 489 (2006) (noting “the surface-level tension that exaggerated violence in hardcore rap
+provokes between reality and art” (emphasis added)).
+30. Watts v. United States, 394 U.S. 705, 708 (1969).
+31. Brown v. Entm’t Merchants Ass’n, 131 S. Ct. 2729, 2735 (2011) (striking down a California
+statute restricting minors’ ability to purchase and rent violent video games, emphasizing that the Court
+has “made clear that violence is not part of the obscenity that the Constitution permits to be regulated”
+and noting that “speech about violence is not obscene”).
+32. Jason E. Powell, Note, R.A.P.: Rule Against Perps (Who Write Rhymes), 41 RUTGERS L.J.
+479, 480 (2009).
+33. Kenneth L. Karst, Threats and Meanings: How the Facts Govern First Amendment Doctrine,
+58 STAN. L. REV. 1337, 1359 (2006).
+34. See Transcript of Oral Argument at 12–14, 33–34, Air Wis. Airlines Corp. v. Hoeper, 134 S.
+Ct. 852 (2014) (No. 12-315), available at http://perma.cc/Z2T2-AR8P (debating the meaning of words,
+including what constitutes an exaggeration and how different statements might have different effects on
+listeners); see also David G. Savage, Justices Hear ‘Unstable Pilot’ Dispute, L.A. TIMES, Dec. 10, 2013,
+at A9 (reporting on the Air Wisconsin oral argument, and noting Justice Sotomayor’s query to attorney
+Jonathan Cohn, “Isn’t there a difference between saying someone’s angry and someone’s mentally ill?,”
+and to which Cohn responded by ““defend[ing] the manager’s choice of words, saying many people
+might use terms like ‘he lost it’ or he ‘went off the deep end’ to express the same concern”).
+35. Rodney A. Smolla, Terrorism and the Bill of Rights, 10 WM. & MARY BILL OF RTS. J. 551,
+577 (2002).
+36. See Andrea Dennis, Poetic (In)Justice? Rap Music Lyrics as Art, Life, and Criminal
+Evidence, 31 COLUM. J.L. & ARTS 1, 2 (2007) (examining the admission of defendant-authored rap
+lyrics as evidence of crimes); Erik Nielson & Charis E. Kubrin, Rap Lyrics on Trial, N.Y. TIMES, Jan.
+14, 2014, at A27 (noting that “[r]ap lyrics and videos are turning up as evidence in courtrooms across
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+6
+
+COLUMBIA JOURNAL OF LAW & THE ARTS
+
+[38:1
+
+incite violence.37
+Part I of this Article provides a primer on the true threats doctrine, including
+both its uncertainties and unsettled aspects, as well as its ostensible distinction from
+another category of unprotected expression that might be considered its close legal
+cousin—incitement to violence. Moving in interdisciplinary fashion to literature
+from outside the law, Part II sets forth an overview of the historical, political,
+cultural and racial aspects of rap music that may, perhaps subtly and even
+imperceptibly, initially tilt the scales of justice against defendants charged with
+making true threats in the form of rap lyrics. Part III then bridges true threats and
+rap music, as it uses hypothetical situations to explore and analyze problems with
+the true threats doctrine. Finally, the Article concludes in Part IV by offering
+several suggestions for how the Supreme Court could help to clarify these doctrinal
+issues, particularly as they affect rap.
+I. THE TRUE THREATS DOCTRINE: REALITIES, UNCERTAINTIES
+AND CIRCUIT SPLITS
+This Part has two sections. Initially, Section A provides an overview of the true
+threats doctrine, including the Supreme Court’s development of the doctrine
+through two major cases. Section B then highlights the current splits of authority
+among lower courts regarding what precisely a true threat entails, as well the
+problem that arises in distinguishing between true threats and incitement to
+unlawful conduct.
+A. SUPREME COURT RULINGS FROM WATTS THROUGH BLACK
+Among the few so-called “categorical carve-outs” of expression that are not
+protected by the First Amendment is the niche known as true threats.38 Indeed, as
+one federal appellate court recently observed, “[t]hreats generally are not entitled to
+First Amendment protection.”39 True threats are not safeguarded by the
+Constitution because, as a matter of public policy, it is desirable:
+(1) to protect people from the fear of violence; (2) to prevent the disruption that this
+fear engenders; (3) to incarcerate people who have identified themselves as likely to
+carry out a threatened crime before they have the opportunity to perpetrate the crime;
+and (4) to prevent people from being coerced into acting against their will.40
+
+the country with alarming regularity,” and asserting that in 2013, “the American Civil Liberties Union of
+New Jersey found that in 18 cases in which various courts considered the admissibility of rap as
+evidence, the lyrics were allowed nearly 80 percent of the time”).
+37. For instance, California-based rapper Tyler, the Creator, was arrested in March 2014 for
+allegedly inciting a riot at the annual South by Southwest festival in Austin, Texas. Rapper Charged
+with Inciting Riot at SXSW, WASH. POST (Mar. 15, 2014), http://perma.cc/69F7-AUTU.
+38. See Carey v. Wolnitzek, 614 F.3d 189, 199 (6th Cir. 2010).
+39. United States v. Keyser, 704 F.3d 631, 638 (9th Cir. 2012).
+40. Jennifer E. Rothman, Freedom of Speech and True Threats, 25 HARV. J.L. & PUB. POL’Y 283,
+290–91 (2001).
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+2014]
+
+RAP MUSIC AND THE TRUE THREATS QUAGMIRE
+
+7
+
+Thus, all state and federal statutes that purport to regulate threats must be measured
+against and comply with the Supreme Court’s true threats jurisprudence.41 As one
+federal appellate court wrote in 2013, the nation’s high court “taught us to interpret
+threat statutes in light of the First Amendment.”42
+The Supreme Court ruled forty-five years ago in Watts v. United States that “a
+threat must be distinguished from what is constitutionally protected speech.”43 The
+case pivoted on eighteen-year-old Robert Watts’ statement during a rally on the
+Washington Monument grounds in August 1966: “If they ever make me carry a
+rifle the first man I want to get in my sights is L. B. J.”44 Watts was convicted,
+based on this statement, of threatening President Lyndon Baines Johnson under a
+federal statute.45 The Supreme Court reversed, concluding that Watts’ “only
+offense here was ‘a kind of very crude offensive method of stating a political
+opposition to the President.’”46
+Watts has been criticized by many First Amendment scholars, including
+Professor Frederick Schauer, who asserts that the case “provides virtually no
+information on just what a threat is other than that what Watts said was not one.”47
+Although the Watts Court, indeed, failed to provide a concise definition of true
+threats,48 the case made it clear that “political hyperbole” of the kind used by
+Robert Watts does not rise to the level of a true threat—especially when the words,
+which must be “[t]aken in context,” are “expressly conditional” upon future events
+transpiring, and when the reaction of the audience is taken into account.49 Watts
+thus “lays the foundation on which the Court builds its understanding of how to
+distinguish protected speech or expressive conduct from unprotected threats.”50
+Specifically, “content and context . . . were central to the Court’s analysis.”51
+Other courts today agree that content and context are key factors in sorting out true
+threats from protected expression.52 Along with the audience’s reaction, the
+
+41. See G. Robert Blakey & Brian J. Murray, Threats, Free Speech, and the Jurisprudence of the
+Federal Criminal Law, 2002 BYU L. REV. 829, 937 (2002) (“Under the majority approach, courts treat
+the First Amendment as intermingled with the statutory construction.”).
+42. United States v. Stock, 728 F.3d 287, 294 (3d Cir. 2013).
+43. 394 U.S. 705, 707 (1969).
+44. Id. at 706.
+45. Id. at 705 & n.* (citing 18 U.S.C. § 871(a) (1964)).
+46. Watts, 394 U.S. at 708.
+47. Frederick Schauer, Intentions, Conventions, and the First Amendment: The Case of CrossBurning, 2003 SUP. CT. REV. 197, 211 (2003).
+48. Lauren Gilbert, Mocking George: Political Satire as “True Threat” in the Age of Global
+Terrorism, 58 U. MIAMI L. REV. 843, 868 (2004) (“Despite Watt’s speech-protective language, the
+Supreme Court[] fail[ed] to articulate a clear standard in that case . . . .”).
+49. Id.; see also Jeannine Bell, O Say, Can You See: Free Expression by the Light of Fiery
+Crosses, 39 HARV. C.R.-C.L. L. REV. 335, 340 (2004) (asserting that, in Watts, “[t]he context of the
+words used, their conditional nature, and the reaction of the listeners all suggested to the Court that the
+defendant meant only to be critical of the government, rather than actually to threaten the President’s
+life”).
+50. Blakey & Murray, supra note 41, at 932.
+51. Jennifer Elrod, Expressive Activity, True Threats, and the First Amendment, 36 CONN. L.
+REV. 541, 559 (2004).
+52. See, e.g., Citizen Publ’g Co. v. Miller, 115 P.3d 107, 114–15 (Ariz. 2005) (“[T]he presence of
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+8
+
+COLUMBIA JOURNAL OF LAW & THE ARTS
+
+[38:1
+
+variables of content and context thus are sometimes described as “the three Watts
+factors.”53
+After Watts, the Court largely “has left the development of true threat analysis to
+the circuit and state courts.”54 Indeed, as Professor Mark Strasser observed in
+2011, the Court has provided “little guidance with respect to what constitutes a
+threat that is outside First Amendment protection. State and lower federal courts
+have been trying to make sense of this area of the law, sometimes seeking to refine
+what the Court has said and sometimes striking out on their own.”55 Professor
+Lauren Gilbert concurs, writing that:
+[T]he Supreme Court’s failure to articulate a clear standard in that case or subsequent
+cases for what constitutes a true threat has contributed to the doctrinal confusion that
+has persisted for more than thirty years. Subsequent criminal cases in the various
+circuits involving threats to the President and other government officials have
+departed from Watts, often upholding jury verdicts of guilty despite evidence that the
+statements were not intended as threats.56
+
+Indeed, this lack of high court leadership is one of the major problems with the
+refinement of the true threats doctrine.
+Perhaps the Supreme Court’s most significant post-Watts effort to refine the true
+threats doctrine came in its 2003 opinion in Virginia v. Black.57 In that case, the
+Court considered the constitutionality of a state statute that banned cross burning
+done with an intent to intimidate.58 Writing a key portion of the Court’s opinion in
+which four other justices joined, Justice O’Connor opined that true threats
+“encompass those statements where the speaker means to communicate a serious
+expression of an intent to commit an act of unlawful violence to a particular
+individual or group of individuals.”59 She elaborated that a “speaker need not
+actually intend to carry out the threat” in order for the speech to fall outside of the
+scope of First Amendment protection.60 O’Connor added that “[i]ntimidation in the
+constitutionally proscribable sense of the word is a type of true threat, where a
+speaker directs a threat to a person or group of persons with the intent of placing
+the victim in fear of bodily harm or death.”61
+
+a true threat can be determined only by looking at the challenged statement in context. . . . Given both
+the content and the context of the statement at issue here, we conclude that it is not a constitutionally
+proscribable true threat.” (emphasis added)).
+53. See, e.g., Nina Petraro, Note, Harmful Speech and True Threats: Virginia v. Black and the
+First Amendment in an Age of Terrorism, 20 ST. JOHN’S J.L. COMMENT. 531, 546 (2006).
+54. Sarah E. Redfield, Threats Made, Threats Posed: School and Judicial Analysis in Need of
+Redirection, 2003 BYU EDUC. & L.J. 663, 680.
+55. Mark Strasser, Advocacy, True Threats, and the First Amendment, 38 HASTINGS CONST. L.Q.
+339, 368 (2011).
+56. Gilbert, supra note 48, at 868.
+57. Virginia v. Black, 538 U.S. 343 (2003).
+58. Id. at 347–48.
+59. Id. at 359.
+60. Id. at 360.
+61. Id.
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+2014]
+
+RAP MUSIC AND THE TRUE THREATS QUAGMIRE
+
+9
+
+B. THE POST-BLACK PROBLEMS WITH TRUE THREATS
+Black, unfortunately, did not resolve the issue of what constitutes a true threat.
+There is a circuit split on the question of intent in the aftermath of Virginia v.
+Black, specifically on the difference between objective intent and subjective
+intent.62
+In other words, does it matter under the true threats doctrine what the speakerdefendant actually (subjectively) intended the message to mean or, conversely, does
+it only matter that the speaker-defendant intended to transmit the message and that
+the interpretation or meaning of the message is measured by some objective,
+reasonable-person approach? A subjective intent test “would require specific intent
+by the speaker as to the audience’s interpretation.”63 Under an objective test, the
+question generally is whether “a reasonable person would perceive the threat as
+real.”64
+Does Black, then, require “that a defendant subjectively intend to threaten,”65 as
+the defendant in United States v. Elonis asserted? In that case, the defendant
+argued that Black’s “definition of true threats means that the speaker must both
+intend to communicate and intend for the language to threaten the victim.”66 Or
+does Black only require, under an objective standard, consideration of “whether a
+reasonable observer would perceive the threat as real”?67 Put slightly differently,
+does Black require that “a reasonable recipient would have interpreted the
+defendant’s communication as a serious threat to injure”?68 This “reasonableperson” standard:
+[W]innows out protected speech because, instead of ignoring context, it forces jurors
+to examine the circumstances in which a statement is made: A juror cannot
+permissibly ignore contextual cues in deciding whether a “reasonable person” would
+perceive the charged conduct “as a serious expression of an intention to inflict bodily
+harm.”69
+
+And among courts that have adopted an objective intent requirement, there is
+even a disagreement as to precisely which perspective should be taken when
+viewing the message. Should it be that of a reasonable sender, a reasonable
+recipient/hearer or simply an objectively reasonable person?70 In the Second
+Circuit, for instance, the test is “whether an ordinary, reasonable recipient who is
+62. See United States v. Clemens, 2013 U.S. App. LEXIS 24488, at *21í29 (1st Cir. Dec. 10,
+2013).
+63. Caleb Mason, Framing Context, Anonymous Internet Speech, and Intent: New Uncertainty
+About the Constitutional Test for True Threats, 41 SW. L. REV. 43, 48 (2011).
+64. United States v. Jeffries, 692 F.3d 473, 478 (6th Cir. 2012), cert. denied, 134 S. Ct. 59 (2013).
+65. United States v. Elonis, 730 F.3d 321, 327 (3d Cir. 2013), cert. granted, 134 S. Ct. 2819
+(2014).
+66. Id. at 329 (emphasis added).
+67. Jeffries, 692 F.3d at 479.
+68. United States v. Niklas, 713 F.3d 435, 440 (8th Cir. 2013).
+69. Jeffries, 692 F.3d at 480 (quoting United States v. Alkhabaz, 105 F.3d 1492, 1495 (6th Cir.
+1997)).
+70. United States v. White, 670 F.3d 498, 510 (4th Cir. 2012).
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+10
+
+COLUMBIA JOURNAL OF LAW & THE ARTS
+
+[38:1
+
+familiar with the context of the [communication] would interpret it as a threat of
+injury.”71 While the vast majority of federal appellate courts have held that the true
+threats doctrine merely requires some form of an objective intent standard,72 the
+Ninth Circuit has, post-Black, “analyzed speech under both an objective and a
+subjective standard.”73 As the Ninth Circuit recently opined, “in order to be subject
+to criminal liability for a threat, the speaker must subjectively intend to threaten.”74
+In the Ninth Circuit, after Black, it is “not sufficient that objective observers would
+reasonably perceive such speech as a threat of injury or death.”75 Instead, as the
+Ninth Circuit reasoned:
+Because the true threat requirement is imposed by the Constitution, the subjective test
+set forth in Black must be read into all threat statutes that criminalize pure speech.
+The difference is that with respect to some threat statutes, we require that the
+purported threat meet an objective standard in addition, and for some we do not.76
+
+Importantly, the Ninth Circuit is not alone in subscribing to the belief that a
+subjective intent on the part of the speaker is a requirement of the true threat
+doctrine. The highest appellate courts in at least three states—Massachusetts,77
+Rhode Island78 and Vermont79—fall in line with the Ninth Circuit’s view.
+Furthermore, there is even a state-versus-federal split of authority in some
+regions of the country, under which the highest appellate state court requires one
+71. United States v. Turner 720 F.3d 411, 420 (2d Cir. 2013) (citing United States v. Davila, 461
+F.3d 298, 305 (2d Cir. 2006)).
+72. See Mason, supra note 63, at 61 (“[A]ll circuits but the D.C. Circuit have ruled on the ‘true
+threat’ test, and all, with the lone exception now of the Bagdasarian [Ninth Circuit] court, continue to
+use an objective, reasonable-person test. Two circuits—the Sixth and the Seventh—have noted in dicta
+the possible effect of Black on the objective test, but both found reasons not to decide the issue.”
+(citations omitted)); see also Charlotte Taylor, Free Expression and Expressness, 33 N.Y.U. REV. L. &
+SOC. CHANGE 375, 417 (2009) (“[M]ost circuits ask whether a reasonable speaker or reasonable listener
+would have understood a given speech act to be a threat.”).
+73. Fogel v. Collins, 531 F.3d 824, 831 (9th Cir. 2007).
+74. United States v. Keyser, 704 F.3d 631, 638 (9th Cir. 2012) (emphasis added).
+75. United States v. Bagdasarian, 652 F.3d 1113, 1116 (9th Cir. 2011).
+76. Id. at 1117 (emphasis added).
+77. O’Brien v. Borowski, 961 N.E.2d 547 (Mass. 2012). The Supreme Judicial Court of
+Massachusetts opined in O’Brien that:
+[T]he “true threat” doctrine applies not only to direct threats of imminent physical harm, but to
+words or actions that—taking into account the context in which they arise—cause the victim to
+fear such harm now or in the future and evince intent on the part of the speaker or actor to cause
+such fear.
+Id. at 556 (emphasis added). In considering the constitutionality of a state harassment statute, the court
+added that “[t]he intent requirements in the act plainly satisfy the ‘true threat’ requirement that the
+speaker subjectively intend to communicate a threat.” Id. at 557 (emphasis added).
+78. State v. Grayhurst, 852 A.2d 491, 515 (R.I. 2004). (“[Defendant’s] statements clearly evince
+defendant’s subjective intent both to harm Ms. Grayhurst and to compel her to pay him money or
+reconcile against her will. As such, they constitute genuine threats . . . and are unprotected by the First
+Amendment.” (emphasis added)).
+79. Vermont v. Miles, 15 A.3d 596 (Vt. 2011). The Supreme Court of Vermont wrote in Miles
+that without a finding that the defendant’s “statement represented an actual intent to put another in fear
+of harm or to convey a message of actual intent to harm a third party, the statement cannot reasonably be
+treated as a threat.” Id. at 599 (emphasis added).
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+2014]
+
+RAP MUSIC AND THE TRUE THREATS QUAGMIRE
+
+11
+
+standard of intent, while the federal appellate circuit that geographically covers that
+same state requires a different standard of intent. For instance, in 2011 the
+Supreme Court of California openly disagreed with the Ninth Circuit’s conclusion
+that subjective intent must exist for a statement to constitute a true threat.80
+Similarly, in another post-Black decision, the Supreme Court of Washington wrote
+that, “We have adopted an objective standard for determining what constitutes a
+true threat.”81 Both California and Washington fall within the geographic confines
+of the Ninth Circuit.82
+While arguments against imposing a subjective intent requirement hinge on the
+additional barriers to successful prosecution it might pose, a 2013 article in the
+Harvard Law Review asserts that:
+The means of demonstrating subjective intent, chiefly through circumstantial
+evidence, closely track the mens rea element required in most criminal statutes, and
+such evidence is likely to overlap significantly with the kind submitted under an
+objective standard. Prosecutors are experienced in proving states of mind, and the
+subjective standard would require only that threat statutes incorporate a mental state
+analysis akin to those required of criminal prosecutions.83
+
+Beyond the question of intent, another major problem today is the possible
+conflation of—or confusing overlap between—the true threats doctrine and the
+Supreme Court’s incitement jurisprudence under Brandenburg v. Ohio.84 In
+Brandenburg, which was decided the same year as Watts and which “brought into
+power the modern-day incitement test,”85 the Court held that:
+[T]he constitutional guarantees of free speech and free press do not permit a State to
+forbid or proscribe advocacy of the use of force or of law violation except where such
+advocacy is directed to inciting or producing imminent lawless action and is likely to
+incite or produce such action.86
+
+Professor Susan Gilles recently wrote that this three-part test, which requires
+intent to incite, a likelihood of inciting and the temporal imminence of incitement,
+
+80. People v. Lowery, 257 P.3d 72, 77 n.1 (Cal. 2011) (“We are not persuaded by the quite recent
+decision in United States v. Bagdasarian . . . in which the United States Court of Appeals for the Ninth
+Circuit concluded that in Virginia v. Black . . . the high court held that every statute criminally punishing
+threats must include as an element of proof the defendant’s subjective intent to make a threat.” (internal
+citations omitted)).
+81. State v. Johnston, 127 P.3d 707, 710 (Wash. 2006).
+82. ADMINISTRATIVE OFFICE OF THE U.S. COURTS, GEOGRAPHIC BOUNDARIES OF THE UNITED
+STATES COURT OF APPEALS AND UNITED STATES DISTRICT COURTS (2014), available at
+http://perma.cc/R7Z2-7GSX.
+83. First Amendment – True Threats – Sixth Circuit Holds that Subjective Intent Is Not Required
+by the First Amendment when Prosecuting Criminal Threats, United States v. Jeffries, 126 HARV. L.
+REV. 1138, 1145 (2013).
+84. Brandenburg v. Ohio, 395 U.S. 444 (1969).
+85. John P. Cronan, The Next Challenge for the First Amendment: The Framework for an
+Internet Incitement Standard, 51 CATH. U. L. REV. 425, 438 (2002).
+86. Brandenburg, 395 U.S. at 447.
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+12
+
+COLUMBIA JOURNAL OF LAW & THE ARTS
+
+[38:1
+
+is “remarkably protective of speech.”87 Unlike the ambiguity regarding whether or
+not the true threats doctrine requires a subjective intent, Brandenburg entails a
+“requirement to prove subjective intent and not just tendency.”88 It thus would
+seem odd that while a subjective intent for others to cause violence clearly is
+required under incitement jurisprudence,89 no such subjective intent is required
+under the true threats doctrine.
+The doctrinal confusion stems from the fact that a true threat may be considered
+to be a “type of violence advocacy,”90 and some argue that courts should “broaden
+the true threat standard to allow for penalizing or regulating incitement.”91 As
+Professor Strasser recently wrote:
+[T]he Court has employed true threat jurisprudence in a way that practically extends
+an invitation to lower courts to circumvent Brandenburg protections. Until the Court
+addresses what to do when expression might reasonably be described both as
+constituting incitement of illegal activity and as constituting an actual threat of serious
+harm, the jurisprudence in this area will continue to be in disarray.92
+
+Professor Strasser adds that the “Court has never faced the difficulties posed for
+First Amendment jurisprudence by the possibility that particular expression might
+reasonably be construed as (1) advocacy, (2) a true threat, or (3) both.”93 Strasser
+contends that “the Court has pretended that there was only one characterization that
+might reasonably be offered and then has analyzed whether the expression was
+protected in light of the chosen characterization.”94 Ultimately, as another article
+notes, “the line between ‘threat’ cases under Watts and ‘incitement’ cases under
+Brandenburg is somewhat blurred.”95
+Part of the problem relates to who, under the true threats doctrine, should be
+considered as possible perpetrators that ostensibly will commit the underlying
+violence. Can a true threat exist when the threatened violence will occur not at the
+hands of the communicator/speaker, but will be carried out by someone either
+referenced in the communicator’s message or who might simply read it and commit
+the act? In other words, to constitute a true threat, must the person who
+
+87. Susan M. Gilles, Brandenburg v. State of Ohio: An “Accidental,” “Too Easy,” and
+“Incomplete” Landmark Case, 38 CAP. U. L. REV. 517, 522 (2010).
+88. Roger C. Hartley, Cross Burning—Hate Speech as Free Speech: A Comment on Virginia v.
+Black, 54 CATH. U. L. REV. 1, 32 n.207 (2004).
+89. Leslie Kendrick, Speech, Intent, and the Chilling Effect, 54 WM. & MARY L. REV. 1633, 1636
+(2013) (noting that incitement “is speech that intends and is likely to produce imminent lawless action”
+(emphasis added)).
+90. Emily Buchanan Buckles, “Context Matters”: The Free Speech Legacy of Sandra Day
+O’Connor, 16 TEX. WESLEYAN L. REV. 323, 348 (2010).
+91. Kenneth Lasson, Incitement in the Mosques: Testing the Limits of Free Speech and Religious
+Liberty, 27 WHITTIER L. REV. 3, 62 (2005).
+92. Mark Strasser, Mill, Holmes, Brandeis, and a True Threat to Brandenburg, 26 BYU J. PUB. L.
+37, 63 (2011) (emphasis added).
+93. Id. at 72.
+94. Id.
+95. Ashley Packard, Threats or Theater: Does Planned Parenthood v. American Coalition of Life
+Activists Signify that Tests for “True Threats” Need to Change?, 5 COMM. L. & POL’Y 235, 248 (2000).
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+2014]
+
+RAP MUSIC AND THE TRUE THREATS QUAGMIRE
+
+13
+
+communicates the alleged threat be the same person who will also purportedly
+carry it out—what might be called a first-person, threat-of-violence scenario—or
+can the person who will carry it out be someone else—a third-person, threat-ofviolence scenario? Is the latter scenario—the third-person, threat-of-violence
+situation—more akin to an incitement scenario than a true threat?
+This issue recently arose in the Court of Appeals for the Second Circuit. In her
+June 2013 dissent in United States v. Turner, Circuit Judge Rosemary Pooler wrote
+that “in determining whether speech is a purported threat, we must make sure that
+the speech is not instead advocacy protected by Brandenburg.”96 She reasoned that
+the true threats doctrine requires that the message recipient be fearful of the
+execution of the threat by the speaker, while the incitement/advocacy doctrine
+under Brandenburg entails the exhortation of others to commit violence.97 The
+problem, Pooler observed, is that “[s]peech may be ambiguous as to who will cause
+injury and still constitute a threat.”98 A single statement, she wrote, could be both a
+true threat and an incitement because “[s]peech may threaten violence that the
+speaker controls and exhort others to act, directing the speech to both the victim
+and third parties.”99 In Turner, Judge Pooler concluded that the defendant’s
+“communications were advocacy and not a threat,” and thus she dissented from the
+majority, which found the messages were a threat.100
+The two-judge majority in Turner, however, seemed unfazed by the distinction
+between who might carry out the violence—the speaker or a third party—in
+determining that the defendant’s communications were true threats.101 The
+majority, in rejecting Judge Pooler’s view and that of the defendant, opined that:
+This argument . . . relies overmuch on the literal denotation and syntax of Turner’s
+statements, refusing to acknowledge that threats—which may be prohibited,
+consistent with the First Amendment—need be neither explicit nor conveyed with the
+grammatical precision of an Oxford don. Turner’s conduct was reasonably found by
+the jury to constitute a threat, unprotected by the First Amendment; it need not also
+constitute incitement to imminent lawless action to be properly proscribed.102
+
+In summary, true threats jurisprudence today is plagued by splits of authority
+and ambiguity. It is into this haziness that rap music sometimes falls when lyrics
+allude to or directly reference violence. But rap itself is an exceedingly complex
+genre, and the next Part illustrates this by providing context for meaning and
+understanding that courts and jurors, ideally, should consider when sorting out
+whether a specific instance of rap music constitutes an unprotected threat.103
+
+96. United States v. Turner, 720 F.3d 411, 431 (2d Cir. 2013) (Pooler, J., dissenting).
+97. Id. at 431–32.
+98. Id. at 432.
+99. Id. at 434.
+100. Id.
+101. Id. at 424–25 (majority opinion).
+102. Id. at 425.
+103. If there is “no question that a defendant’s speech is protected by the First Amendment,” then a
+court may dismiss a threat charge as a matter of law. United States v. Viefhaus, 168 F.3d 392, 397 (10th
+Cir. 1999). However, it is generally left to a jury, rather than a judge, to determine if the speech in
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+14
+
+COLUMBIA JOURNAL OF LAW & THE ARTS
+
+[38:1
+
+II. PUTTING RAP INTO CONTEXT: A PRIMER ON THE
+COMPLICATED NATURE OF A MUSICAL GENRE
+“Shit, I’m just a crazy sociopath that gets off playin’ you stupid fucks like a fiddle.
+And if y’all didn’t hear, I’m gonna be famous cause I’m just an aspiring rapper who
+likes the attention who happens to be under investigation for terrorism cause y’all
+think I’m ready to turn the Valley into Fallujah.”104
+
+That was part of a Facebook post authored by Anthony Elonis and “styled as a
+rap song” about a visit he received from two FBI agents investigating previous
+violence-themed posts.105 Another piece of the same post, which also was penned
+in rap format, comprised the basis of Count Five of a criminal indictment against
+Elonis106 for violating a federal statute prohibiting threats of violence.107 A jury
+convicted him on Count Five, and in September 2013, the Court of Appeals for the
+Third Circuit affirmed that decision.108 In his February 2014 petition for a writ of
+certiorari, Elonis asserted that the Facebook posts leading to his arrest were merely
+fictitious and therapeutic raps, sometimes modeled on those of Eminem.109
+Does or should it matter that Elonis’ posts ostensibly took the form of rap lyrics?
+It arguably should matter considerably because, as noted earlier, context is a key
+
+question constitutes a true threat or whether it is protected political expression. United States v. Davila,
+461 F.3d 298, 304 (2006); United States v. Khorrami, 895 F.2d 1186, 1192 (7th Cir. 1990); United
+States v. Leaverton, 835 F.2d 254, 257 (10th Cir. 1987).
+104. Elonis Petition, supra note 19, at 12 (emphasis added).
+105. See id.
+106. The other part of the posting, which came immediately before the italicized quotation that
+starts Part II of this Article, provides:
+You know your shit’s ridiculous
+when you have the FBI knockin’ at yo’ door
+Little Agent Lady stood so close
+Took all the strength I had not to turn the bitch ghost
+Pull my knife, flick my wrist, and slit her throat
+Leave her bleedin’ from her jugular in the arms of her partner
+[laughter]
+So the next time you knock, you best be serving a warrant
+And bring yo’ SWAT and an explosives expert while you’re at it
+Cause little did y’all know, I was strapped wit’ a bomb
+Why do you think it took me so long to get dressed with no shoes on?
+I was jus’ waitin’ for y’all to handcuff me and pat me down
+Touch the detonator in my pocket and we’re all goin’
+[BOOM!]
+United States v. Elonis, 730 F.3d 321, 326 (3d Cir. 2013).
+107. See 18 U.S.C. § 875(c) (2012) (“Whoever transmits in interstate or foreign commerce any
+communication containing any threat to kidnap any person or any threat to injure the person of another,
+shall be fined under this title or imprisoned not more than five years, or both.”).
+108. Elonis, 730 F.3d at 327, 335.
+109. Elonis Petition, supra note 19, at 5.
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+2014]
+
+RAP MUSIC AND THE TRUE THREATS QUAGMIRE
+
+15
+
+factor in determining whether speech constitutes a true threat under Watts.110 This
+Part thus explores, in interdisciplinary fashion, the contextual factors and elements
+that often comprise rap music. These factors might help jurors to better understand
+and decode whether any given message that purports to be First Amendmentshielded rap music rises to the level of an unprotected threat.
+For instance, Anthony Elonis proclaims in the lyrics quoted above that he is
+“just a crazy sociopath that gets off playin’ you stupid fucks.”111 Should a
+reasonable person take it seriously that Elonis is a crazy sociopath? Probably not.
+Charis Kubrin, an associate professor of criminology, law and society at the
+University of CaliforniaíIrvine, explains that rappers often use lyrics to build
+identities and reputations—or simply “reps,” in the parlance of rap.112 “At the top
+of the hierarchy is the ‘crazy’ or ‘wild’ social identity,” Kubrin writes.113 She
+elucidates:
+As a way to display a certain predisposition to violence, rappers often characterize
+themselves and others as “mentally unstable” and therefore extremely dangerous.
+Consider Snoop Dogg and DMX, both of whom had murder charges brought against
+them in the 1990s: “Here’s a little something about a nigga like me / I never should
+have been let out the penitentiary / Snoop Dogg would like to say / That I’m a crazy
+motherfucker when I’m playing with my AK [AK-47 assault rifle].”114
+
+In other words, a reasonable person who understands the nature of rap music
+arguably would suspect, if not outright know, that Elonis was merely posing to
+develop what Kubrin refers to as “the ‘crazy’ persona.”115 Indeed, much of rap is
+about projecting images—not necessarily realities—of rappers “as assassins,
+hustlers, gangstas, madmen, mercenary soldiers, killas, thugs, and outlaws.”116 A
+2005 law journal article adds that rap artists often claim “that their ‘rap persona’ is
+merely a fictional identity built from a hyperbolic extension of their own personal
+emotions and experiences. In essence, they claim to be role playing.”117 Another
+article wryly notes that “in many instances the posturing of rappers amounts simply
+to marketing ploys designed to provide a safe fantasy for suburbanites.”118
+Jurors need to understand such distinctions between fictional images and realworld realities when sorting out what really is a true threat of violence. As the
+Supreme Court intimated in Ashcroft v. Free Speech Coalition, when striking down
+a federal statute banning fictional images of child pornography, there is a clear
+
+110. See supra notes 49í53 and accompanying text.
+111. See supra note 104 and accompanying text (emphasis added).
+112. Charis E. Kubrin, Gangstas, Thugs, and Hustlas: Identity and the Code of the Street in Rap
+Music, 52 SOC. PROBS. 360, 370 (2005) [hereinafter Kubrin, Gangstas, Thugs, and Hustlas].
+113. Id.
+114. Id. (emphasis added).
+115. Id.
+116. Id. at 369.
+117. Sean-Patrick Wilson, Comment, Rap Sheets: The Constitutional and Societal Complications
+Arising From the Use of Rap Lyrics as Evidence at Criminal Trials, 12 UCLA ENT. L. REV. 345, 357
+(2005).
+118. Long, supra note 3, at 533.
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+16
+
+COLUMBIA JOURNAL OF LAW & THE ARTS
+
+[38:1
+
+difference between protected fantasy and unprotected reality.119
+With the Elonis sociopath example in mind, Section A immediately below
+provides a brief primer on the nomenclature of rap, while Section B that follows
+sets forth an overview of the many elements and variables that comprise rap music.
+A. UNPACKING THE TERMINOLOGY: HIP HOP, RAP & GANGSTA RAP
+Rap music “is the verbal and musical domain of hip-hop, an expressive oral
+form through which personal and social perspectives are amplified.”120 As an early
+scholarly article on the topic explains, rap music, which dates back to the late
+1970s,121 “comes from the youth subculture known as hip hop, a movement that
+also encompasses breakdancing and more recent dances, graffiti art, fashion, and
+figures of speech.”122 Rap thus is merely one component or facet of the larger
+culture of hip hop,123 which also encompasses “a style of dress, dialect and
+language, [a] way of looking at the world, and an aesthetic that reflects the
+sensibilities of a large population of youth born between 1965 and 1984.”124 Hip
+hop today is “a United States phenomenon and a global cultural and entertainment
+movement.”125 And while it started in the South Bronx in the early 1970s, now
+“mainstream hip-hop has evolved into a largely commercial enterprise targeting a
+young and white buying audience.”126
+Although rap today earns “increasing social acceptance and cultural
+legitimization,” it is firmly rooted in cultural controversy.127 Like jazz and rock
+before it, rap “has been critically reviewed as a corrosive influence on young and
+impressionable listeners.”128 Thus, when any example of rap music today is
+brought into the legal system because it allegedly is a threat, both it and its author
+arguably face an uphill battle and start with a negative bias against them because
+
+119. Ashcroft v. Free Speech Coalition, 535 U.S. 234, 250í51 (2002) (distinguishing actual and
+virtual child pornography).
+120. Murray Forman, Conscious Hip-Hop, Change, and the Obama Era, 54 AM. STUD. J. 3, 3
+(2010) [hereinafter Forman, Conscious Hip-Hop], available at http://perma.cc/K6ZJ-N65B.
+121. See Jeanita W. Richardson & Kim A. Scott, Rap Music and Its Violent Progeny: America’s
+Culture of Violence in Context, 71 J. NEGRO EDUC. 175, 182 (2002) (“The mass appeal of rap music is
+generally considered to have begun in 1979. At the time the Sugar Hill Gang’s ‘Rappers Delight’
+reached number 36 on the Billboard charts and sold two million copies.”).
+122. Elizabeth A. Wheeler, “Most of My Heroes Don’t Appear on No Stamps”: The Dialogics of
+Rap Music, 11 BLACK MUSIC RES. J. 193, 194 (1991).
+123. See Christina M. Baker et al., Digital Expression Among Urban, Low-Income African
+American Adolescents, 42 J. BLACK STUD. 530, 533 (2011) (asserting that rap “reflects a larger hip-hop
+culture”).
+124. Derrick P. Alridge & James B. Stewart, Introduction: Hip Hop in History: Past, Present,
+and Future, 90 J. AFR. AM. HIST. 190, 190 (2005).
+125. Andre Douglas Pond Cummings, A Furious Kinship: Critical Race Theory and the Hip-Hop
+Nation, 48 U. LOUISVILLE L. REV. 499, 512 (2010).
+126. Margaret Hunter, Shake It, Baby, Shake It: Consumption and the New Gender Relation in
+Hip-Hop, 54 SOCIOLOGICAL PERSP. 15, 16 (2011).
+127. See Julian Tanner et al., Listening to Rap: Cultures of Crime, Cultures of Resistance, 88 SOC.
+FORCES 693, 693 (2009).
+128. Id.
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+2014]
+
+RAP MUSIC AND THE TRUE THREATS QUAGMIRE
+
+17
+
+rap, as a genre, carries with it the heavy baggage of negative controversy. Indeed,
+the mainstream press has frequently connected both violence and crime to rap.129
+Adding to that stigmatizing load is the fact that criminality has “become
+sedimented in the popular lexicon as the key or trademark term for the subgenre” of
+rap known as gangsta rap.130
+The general category of rap music, in fact, has several subgenres, only one of
+which is gangsta rap.131 Sparked by the 1988 N.W.A. songs “Gangsta Gangsta”
+and “Fuck the Police,” gangsta rap prominently emerged in the late 1980s and early
+1990s.132 During this time, gangsta rap gained “notoriety, in part, due to its
+misogynous themes, encouragement of hypermaterialism, violent lyrics, and the
+behavior of some of its artists.”133 Its roots are “traced to early depictions of the
+hustler lifestyle and blaxploitation movies of the 1970s, which glorified blacks as
+criminals, pimps, pushers, prostitutes, and gangsters.”134 Some attribute the
+increased focus on the kind of violently explicit lyrics that pervade gangsta rap to
+the commercial forces of big record labels.135 That is, certain elements within
+gangsta rap “have come to spread and define rap music as a whole” due to the
+commercial success of the subgenre. 136
+In summary, gangsta rap is a negatively stigmatized subgenre of a larger
+category of music called rap. Rap, in turn, is only one aspect of a much bigger
+cultural movement and lifestyle known as hip-hop.137
+B. THE COMPLEXITY OF MEANING AND MULTIPLE COMPONENTS OF RAP
+In an early article examining rap, Richard Shusterman succinctly captures the
+129. Scott Appelrouth & Crystal Kelly, Rap, Race and the (Re)Production of Boundaries, 56 SOC.
+PERSP. 301, 310 (2013).
+130. Murray Forman, ‘Represent’: Race, Space and Place in Rap Music, 19 POPULAR MUSIC 65,
+78 (2000).
+131. See Justin A. Williams, The Construction of Jazz Rap as High Art in Hip-Hop Music, 27 J.
+MUSICOLOGY 435, 436 (2010) (noting that other subgenres, in addition to gangsta rap, include jazz rap
+and pop rap).
+132. See Jennifer C. Lena, Social Context and Musical Content of Rap Music, 1979–1995, 85 SOC.
+FORCES 479, 489 (2006) (noting a “large-scale shift toward hardcore lyrics after 1988”); see also David
+A. Canton, The Political, Economic, Social, and Cultural Tensions in Gangsta Rap, 34 REVIEWS AM.
+HIST. 244, 244í45 (2006).
+133. Richardson & Scott, supra note 121, at 177.
+134. Kubrin, Gangstas, Thugs, and Hustlas, supra note 112, at 360.
+135. As one scholarly article puts it:
+The explosion of sexually and violently explicit lyrics, and the sub-genre such lyrics create (i.e.,
+“gangsta” rap), occurred soon after the major labels got into the rap business. The major labels
+created an environment in which a rapper’s main focus became money, not music, and what is
+the best way for a rapper to make money in a society in which sex and violence sell? To rap
+about sex and violence.
+Mtume ya Salaam, The Aesthetics of Rap, 29 AFR. AM. REV. 303, 304 (1995).
+136. Guillermo Rebollo-Gil & Amanda Moras, Black Women and Black Men in Hip Hop Music:
+Misogyny, Violence and the Negotiation of (White-Owned) Space, 45 J. POPULAR CULTURE 118, 125
+(2012).
+137. See Richardson & Scott, supra note 121, at 177 (“Rap music is not synonymous with hip-hop
+but rather a subset of the hip-hop culture.” (citation omitted)).
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+18
+
+COLUMBIA JOURNAL OF LAW & THE ARTS
+
+[38:1
+
+multifaceted and intricate nature of the meaning of rap music and, in turn, why it is
+exceedingly difficult to sort out whether any specific instance of it constitutes a true
+threat.138 Specifically, Shusterman asserts that examining rap lyrics “will reveal in
+many rap songs not only the cleverly potent vernacular expression of keen insights
+but also forms of linguistic subtlety and multiple levels of meaning whose
+polysemic complexity, ambiguity, and intertextuality can sometimes rival that of
+high art’s so-called ‘open work.’”139 Adding to the problem of deciphering
+meaning is the reality, as Professor Kubrin notes, that “listeners interpret music in
+multiple ways” and “rap and its lyrics are appropriated and embedded into specific
+individual, familial, and community fields of reference.”140
+Rap music is freighted with multiple components of American life. As
+Professor Forman notes, “Rap and hip-hop are . . . inextricably entwined with race,
+cultural politics, ideology, and communication in contemporary America.”141
+Among its many facets, rap music sometimes is political. A 1991 article in
+Black Music Research Journal contends that rap may, in fact, “be the most political
+medium in the country.”142 Indeed, rap’s origins are inextricably tied to politics,
+with the first political rap song arguably being 1982’s “The Message” by
+Grandmaster Flash and the Furious Five.143 A recent article explains that “[r]ap
+originated in the late 1970s in the South Bronx during a time marked by extreme
+political conservatism and economic downfall” and that it:
+[Q]uickly became one of the premier forms of expression for the youngest members
+of the inner city black and Latino communities in New York, which were the hardest
+hit by the conservative politics and the economic decline during said epoch. Rap then,
+irrespective of its particular subject matter and stated purpose during its initial stages,
+must be viewed as an important socio-political innovation. 144
+
+While “The Message” may have been the first political rap song, a recent article
+in Journal of Black Studies explains that “[i]n 1988, two albums in particular—
+Public Enemy’s ‘It Takes a Nation of Millions to Hold Us Back’ and NWA’s
+‘Straight Outta Compton’—marked an important shift whereby rap became a
+vehicle for political discourse. Both albums fearlessly attacked law enforcement in
+particular.”145 A 1993 scholarly article elaborates that:
+[H]ard-core rappers detail the unemployment, mis-education, discrimination,
+homicides, gang life, class oppression, police brutality and regressive gender politics
+that dominate the lives of many black youth. The macho boasting, misogyny, violent
+fantasies and false consciousness exist side by side with an immature, but clear,
+138. Richard Shusterman, The Fine Art of Rap, 22 NEW LITERARY HIST. 613 (1991).
+139. Id. at 615.
+140. Kubrin, Gangstas, Thugs, and Hustlas, supra note 112, at 366.
+141. Forman, Conscious Hip-Hop, supra note 120.
+142. Wheeler, supra note 122, at 194.
+143. George Ciccariello Maher, Brechtian Hip-Hop: Didactics and Self-Production in PostGangsta Political Mixtapes, 36 J. BLACK STUD. 129, 140 (2005).
+144. Rebollo-Gil & Moras, supra note 136, at 119.
+145. Erik Nielson, “Can’t C Me”: Surveillance and Rap Music, 40 J. BLACK STUD. 1254, 1257
+(2010).
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+2014]
+
+RAP MUSIC AND THE TRUE THREATS QUAGMIRE
+
+19
+
+critique of authority, a loathing of the oppressive character of wage labour, a hatred of
+racism and an exposé of Reaganism.146
+
+And while gangsta rap often is the target of criticism, its artists claim “they are
+simply expressing a social perspective on reality among the urban under-classes,
+occupying a role as ‘ghetto street reporters’ or constructing fictional narratives that
+relate to actual conditions in America’s larger cities.”147
+In addition to political commentary, violence is a popular theme in rap music
+and, in particular, gangsta rap. Indeed, “rap music has appropriated homicide as a
+central theme in lyrical compositions.”148 One study published in 2009 found that
+“the emergence of gangster rap is very strongly associated with increases in violent
+lyrical content.”149 For instance, Professor Jeffrey Ogbar notes that between 1992
+and 2006, “only two adult solo male rappers . . . ha[d] gone platinum without
+killing ‘niggas,’ referencing bitches, hos, and nihilistic violence on an album.”150
+Blending with the violence, then, is politics, as Professor Ogbar asserts that
+“explicit political commentaries are made by commercial rappers that address war,
+poverty, and police brutality in very sophisticated and highly racialized
+discourses.”151 Public Enemy, for instance, offered “biting criticism of prisons,
+white supremacy, political corruption, and police brutality.”152
+Rap is also a form of art, poetry and fantasy. In fact, “gangsta rap operates
+within a well-documented poetic tradition within African American culture that
+ritualizes invective, satire, obscenity and other verbal phenomena with
+transgressive aims.”153 Its linguistic violence involves “performance, play and
+perhaps even social messages all at the same time.”154 The violent imagery, in part,
+sometimes embraces the fantasy of violent revolt.155 The hyper-materialism
+(driving Lexuses and drinking Cristal, for example), in turn, reflects “the gaudy
+fantasy world of some rappers.”156 Professor Kubrin explains in a 2006 article that:
+For some scholars, rappers represent black poets of the contemporary urban scene . . .
+who use music as a vehicle for telling the history of African American culture . . . .
+
+146. Clarence Lusane, Rap, Race and Politics, 35 RACE CLASS 46, 50 (1993).
+147. Forman, Conscious Hip Hop, supra note 120.
+148. Gwen Hunnicutt & Kristy Humble Andrews, Tragic Narratives in Popular Culture:
+Depictions of Homicide in Rap Music, 24 SOC. F. 611, 612 (2009).
+149. Denise Herd, Changing Images of Violence in Rap Music Lyrics: 1979–1997, J. PUB.
+HEALTH POL’Y 395, 402 (2009).
+150. JEFFREY O. G. OGBAR, HIP-HOP REVOLUTION: THE CULTURE AND POLITICS OF RAP 29
+(2007).
+151. Id. at 40.
+152. Id. at 105.
+153. Ralph M. Rosen & Donald R. Marks, Comedies of Transgression in Gangsta Rap and Ancient
+Classical Poetry, 30 NEW LITERARY HIST. 897, 897 (1999).
+154. Annette J. Saddick, Rap’s Unruly Body: The Postmodern Performance of Black Male
+Identity on the American Stage, 47 DRAMA REV. 110, 110 (2003).
+155. Donn C. Worgs, “Beware of the Frustrated . . . “: The Fantasy and Reality of African
+American Violent Revolt, 37 J. BLACK STUD. 20, 35 (2006).
+156. Jeffrey O. G. Ogbar, Slouching toward Bork: The Culture Wars and Self-Criticism in HipHop Music, 30 J. BLACK STUD. 164, 169 (1999).
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+20
+
+COLUMBIA JOURNAL OF LAW & THE ARTS
+
+[38:1
+
+For others, rap music serves as an expressive artistic outlet for a marginalized urban
+social bloc . . . a contemporary response to joblessness, poverty, and disempowerment . . . , and an art form that reflects the nuances, pathology, and most
+importantly, the resilience of America’s black ghettos.157
+
+Finally, rap music also often is equated with black America and thus it is not
+only political in nature, but also racialized as “a product of black culture.”158 A
+study published in 2013 observes “[a]ll that was right and wrong with rap was read
+as a reflection of black America. Positioned in the press as a black musical form
+that sprang from black inner-city neighborhoods, the violence associated with rap
+was de facto black violence.”159 The same study notes that because it often was
+“[c]onnected to drugs, gangs, and the glorification of sexual domination through
+lyrics, the real life experiences of rappers, or audiences’ imaginations, public
+definitions of the artistic value of rap and its political message were also filtered
+through the music’s racial identification.”160 Ultimately, as one article explains,
+“[t]here is little doubt that rap serves as a key contributing factor in the social
+construction of African-American culture.”161 In fact, “[f]rom the start, the public
+viewed hip-hop culture and rap music through a racist lens.”162
+In summary, then, rap is a complex genre. Its very nature compounds the
+difficulties with the already muddled true threats doctrine described in Part I when
+a specimen of rap is accused of being a true threat. It is not hard to speculate that
+the legal deck may be stacked decidedly against rap music, replete with its negative
+stereotypes of violence and nihilism,163 when its authors are accused of embedding
+threats in lyrics. Indeed, although much of it may now be commercialized and
+mainstreamed164 as part of the “mass commodification of rap music,”165 rap long
+has existed “as a form of oppositional culture.”166 And when it is brought into
+court as an alleged true threat, it supposedly stands in opposition to the First
+Amendment. As Professors Erik Nielson and Charis Kubrin wrote in January
+2014, rap today is “as vulnerable as ever to judicial abuse.”167
+
+157. Charis E. Kubrin, “I See Death Around the Corner”: Nihilism in Rap Music, 48 SOC. PERSP.
+433, 433–34 (2005) (citations omitted) [hereinafter Kubrin, “I See Death Around the Corner”].
+158. Shusterman, supra note 138, at 621.
+159. Appelrouth & Kelly, supra note 129, at 312.
+160. Id.
+161. Hunnicutt & Andrews, supra note 148, at 613.
+162. Rachel E. Sullivan, Rap and Race: It’s Got a Nice Beat, but What About the Message?, 33 J.
+BLACK STUD. 605, 607 (2003).
+163. See Kubrin, “I See Death Around the Corner,” supra note 157, at 453 (“Nihilism, and issues
+related to death and dying, not only comprises an important part of the street code but emerges as a
+significant theme in rap music.”).
+164. Michael Quinn, “Never Shoulda Been Let Out the Penitentiary”: Gangsta Rap and the
+Struggle Over Racial Identity, 34 CULTURAL CRITIQUE 65, 67–68 (1996) (describing the commercialization and mainstreaming of rap music).
+165. Charise Cheney, In Search of the “Revolutionary Generation”: (En)gendering the Golden
+Age of Rap Nationalism, 90 J. AFR. AM. HIST. 278, 279 (2005).
+166. Theresa A. Martinez, Popular Culture as Oppositional Culture: Rap as Resistance, 40 SOC.
+PERSP. 265, 280 (1997).
+167. Nielson & Kubrin, supra note 36, at A27.
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+2014]
+
+RAP MUSIC AND THE TRUE THREATS QUAGMIRE
+
+21
+
+With Nielson and Kubrin’s timely warning in mind, the next Part of this Article
+bridges problems with the true threats doctrine and the negative stereotypes and
+multiple meanings of rap music. Using hypothetical examples, Part III illustrates
+that if context really is a key factor in sorting out what constitutes a true threat, then
+jurors must be instructed to take into account the contextual variables that surround
+rap.
+III. ANALYZING RAPS AS THREATS: SOME LESSONS ABOUT
+VANTAGE POINTS THROUGH THE RAP LENS
+This Part illustrates the gravity of the problems with today’s true threats doctrine
+described in Part I through the lens of rap music reviewed in Part II. In the process,
+this Part provides hypothetical examples that demonstrate how radically different
+legal conclusions might be reached, depending on the judicial approach adopted for
+true threats and the evidence, including expert testimony, courts admit to help
+jurors understand rap-message meaning.
+Before going further, it is important to recall that, regardless of whether courts
+employ an objective or subjective intent approach, circumstantial evidence likely
+will be used by jurors to determine intent.168 Just as circumstantial evidence is
+relevant to proving the subjective state of mind requirement of actual malice in
+defamation law,169 so too is it relevant in proving the subjective state of mind of
+intent in true threats cases. Furthermore, part of that circumstantial-evidence
+evaluation in true threats cases involves considering “the totality of the
+circumstances and not just the words in isolation.”170 In brief, circumstantial
+evidence related to rap music may be admitted to provide context—a key factor
+dating back to Watts171—for interpreting the meaning of rap-formatted messages.
+Finally, it is clear that other contextual factors—ones beyond rap music itself—
+should be considered by jurors in true threats cases involving rap messages. For
+instance, if the rap takes the form of a video posted on YouTube, jurors might
+consider and evaluate whether the medium of YouTube itself is one on which rap
+messages should be taken seriously as threats or whether the raps represent public
+posturing. Video images arguably can supplement, complement, enhance or even
+contradict the meaning of the written or spoken words of a rap. Similarly, if the rap
+is publicly posted in the form of written lyrics on Facebook, should this social
+media context make a difference? An extended discussion of such issues is beyond
+the scope of this Article, which focuses solely on the contextual variable of rap
+itself, not the medium through which it is conveyed.
+
+168. United States v. Clemens, 738 F.3d 1, 12 (1st Cir. 2013).
+169. See, e.g., Dongguk Univ. v. Yale Univ., 734 F.3d 113, 123 (2d Cir. 2013) (“Actual malice can
+be established using circumstantial evidence.”).
+170. United States v. Fullmer, 584 F.3d 132, 154 (3d Cir. 2009).
+171. See supra notes 49–53and accompanying text.
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+22
+
+COLUMBIA JOURNAL OF LAW & THE ARTS
+
+[38:1
+
+A. ON OBJECTIVE APPROACH TO THREATS: WHAT DOES “REASONABLENESS”
+MEAN IN INTERPRETING RAP LYRICS?
+If, as the majority of jurisdictions currently do,172 a court embraces an objective
+test that pivots on hypothetically “reasonable” interpretations of messages written
+in the form of raps, then the threshold question relates to vantage point.
+Specifically, the issue is whether the rap message should be interpreted from the
+perspective or vantage point of: (1) a reasonable recipient of the message (or a
+reasonable person in the position of the recipient or a reasonable person in the
+position of the target-victim); (2) a reasonable sender of the message (or a
+reasonable person in the position of the defendant who sent or otherwise
+communicated the message) or, even more speculatively and amorphously, (3) a
+reasonable person.
+Courts adopting an objective test disagree on the proper approach for sorting out
+meaning, as a quick review of very recent cases illustrates. For instance, in 2013
+the First Circuit wrote in United States v. Clemens that it has adopted the second
+option, namely “an objective defendant vantage point standard post-Black.”173 A
+Connecticut appellate court elaborated, in also adopting this standard, that the test
+is whether a “reasonable speaker” would foresee that the actual recipient, under the
+circumstances in question, would “believe that [the recipient] will be subjected to
+physical violence upon his person.” 174
+In contrast, in 2012 the Sixth Circuit opined in United States v. Jeffries that the
+focus must be “the effect on a reasonable listener of the speech.”175 Still different,
+in 2013 the Eleventh Circuit held in United States v. Martinez that, in general, “[a]
+true threat is determined from the position of an objective, reasonable person.” 176
+In 2004, the Fifth Circuit also embraced this more general standard, writing that
+“[s]peech is a ‘true threat’ and therefore unprotected if an objectively reasonable
+person would interpret the speech as a ‘serious expression of an intent to cause a
+present or future harm.’”177
+While the Ninth Circuit has held that, after Black, a subjective intent test must
+be read into all speech-based threat statutes, the Ninth Circuit also holds that some
+threats statutes must be analyzed under both a subjective and objective approach.178
+Under its objective approach, the issue becomes how a reasonable person in the
+position of the recipient would interpret the message.179
+The next critical question becomes, under any of these three objective standards:
+What should courts and jurors expect a reasonable person to know and understand
+about rap music? The answer likely varies depending upon the facts of the case,
+
+172.
+173.
+174.
+175.
+176.
+177.
+178.
+179.
+
+See supra note 72 and accompanying text.
+Clemens, 738 F.3d at 12.
+Connecticut v. Krijger, 24 A.3d 42, 50 (Conn. App. Ct. 2011) (emphasis added).
+United States v. Jeffries, 692 F.3d 473, 480 (6th Cir. 2012) (emphasis added).
+United States v. Martinez, 736 F.3d 981, 988 (11th Cir. 2013) (emphasis added).
+Porter v. Ascension Parish Sch. Bd., 393 F.3d 608, 616 (5th Cir. 2004) (emphasis added).
+United States v. Bagdasarian, 652 F.3d 1113, 1117 (9th Cir. 2011).
+Id. at 1122.
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+2014]
+
+RAP MUSIC AND THE TRUE THREATS QUAGMIRE
+
+23
+
+with the actual knowledge of (and background with) rap music of both the
+defendant and the alleged victim possibly playing significant roles. It is clear,
+however, that a reasonable person standard “forces jurors to examine the
+circumstances in which a statement is made” and, under it, “[a] juror cannot
+permissibly ignore contextual cues.” 180
+Imagine, for instance, that the target or victim of a rap-based message is a police
+officer who works on a gang task force and, due to his knowledge, training and
+experience, is acutely familiar with rap, including the posturing and personas that
+rappers often take on, as well as rap’s frequent violent and political, anti-police
+themes. This officer thus might be referred to, for shorthand purposes, as the “rapliterate target.”
+This contextual background seems very relevant under an objective-recipient
+standard. To provide breathing room for the First Amendment interest in free
+speech, jurors should be asked to consider whether a reasonable police officer, one
+who is familiar with rap music, would take the message as a threat. And what if the
+police officer specifically knew that the speaker-defendant was a rapper before the
+officer received the threat? The jury, then, should be required to consider whether
+a reasonable police officer, who is familiar with rap music and who is familiar with
+the speaker-defendant’s rapping background, would interpret the message as a true
+threat.
+In such a scenario, the meaning of a hypothetical rap directed at an officer and
+posted on YouTube with the seemingly straight-forward lyrics “I know you, you
+know me / gonna kill this cop, let’s all be free” becomes much more complex. Is it
+artistic and political hyperbole—the stereotypical, anti-cop rhetoric and rant
+engaged in by a rapper, perhaps trying to maintain his street credibility if the officer
+in question had previously arrested him? Would a reasonable police officer in the
+position of this one therefore feel less threatened or more threatened?
+Furthermore, a speaker-defendant who has a demonstrated or proven
+background either as a rapper or as a serious fan of rap music should, in the First
+Amendment interest of protecting his speech rights, have these aspects of his
+background admitted as evidence. As the Seventh Circuit wrote in 2008 in
+considering a true threats case, “[c]ontextual information—especially aspects of a
+defendant’s background that have a bearing on whether his statements might
+reasonably be interpreted as a threat—is relevant and potentially admissible
+regardless of whether the recipient or targeted victim had full access to that
+information.”181
+What if, in contrast to the police officer (the rap-literate target) hypothetical
+addressed above, the target or alleged victim of the defendant’s rap message has no
+background whatsoever in rap music and its conventions? This person can be
+dubbed the “rap-ignorant target.”
+A crucial question for this scenario is whether this rap-ignorant target is even a
+“reasonable” person or whether the law today, given the vast popularity of hip
+180.
+181.
+
+Jeffries, 692 F.3d at 480.
+United States v. Parr, 545 F.3d 491, 502 (7th Cir. 2008) (emphasis added).
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+24
+
+COLUMBIA JOURNAL OF LAW & THE ARTS
+
+[38:1
+
+hop,182 should assume that a reasonable person of a certain age—surely someone
+from the so-called “hip hop generation”183—would have at least some minimal
+background with rap.
+This rap-ignorant target thus illustrates yet another fundamental problem with
+the current true threats doctrine—namely, the assumptions (more cynically put, the
+guesses) that jurors must make about the kind of baseline or foundational
+knowledge and background about particular genres of music and writing that
+people (in particular, the targets of supposed threats) possess. Just as courts today
+in defamation cases regarding reputational harm assume that reasonable readers
+will be able to recognize satire by its literary conventions,184 so too should they
+assume that reasonable people will be able to recognize rap and factor that in when
+deciding whether or how such context affects message meaning.
+This is not, of course, to say that simply because a message takes the form of a
+rap that it never constitutes a true threat or that writers of raps are immunized from
+criminal threats prosecution. As the Sixth Circuit wrote in 2012 in a threats case
+involving a defendant who posted a YouTube video of himself singing a song that
+was “part country, part rap,” a person cannot dodge a threats prosecution “merely
+by delivering the threat in verse or by dressing it up with political (and protected)
+attacks on the legal system.”185 Elaborating on this point, the Sixth Circuit
+explained, with an aged but apt pop cultural reference, that:
+Had Bob Dylan ended “Hurricane” with a threat to kill the judge who oversaw Rubin
+Carter’s trial, the song’s other lyrics or the music that accompanied them would not
+by themselves have precluded a prosecution. In the same way, [defendant] Jeffries
+cannot insulate his menacing speech from proscription by conveying it in a music
+video or for that matter by performing the song with a United States flag burning in
+the background.186
+
+What is important, at least from the perspective of safeguarding First
+Amendment interests and erring on the side of free speech, is that courts: (1) take
+into account the actual knowledge and background with rap music when the target
+or victim is a rap-literate target and (2) attribute some minimal understanding of
+rap’s conventions—the understanding that a hypothetical reasonable person would
+have—to the rap-ignorant target.
+
+182. See Cummings, supra note 125, at 512 (“Hip-hop artists regularly top the United States and
+international record sales charts.”).
+183. Donald F. Tibbs, From Black Power to Hip Hop: Discussing Race, Policing, and the Fourth
+Amendment Through the “War on” Paradigm, 15 J. GENDER RACE & JUST. 47, 56 (2012).
+184. See Farah v. Esquire Mag., 736 F.3d 528, 536–39 (D.C. Cir. 2013) (addressing, in the context
+of a defamation case, how reasonable readers would understand satire). The law of defamation
+“developed not only as a means of allowing an individual to vindicate his good name, but also for the
+purpose of obtaining redress for harm caused by such statements.” Milkovich v. Lorain Journal Co., 497
+U.S. 1, 12 (1990). In particular, “[s]ince the latter half of the 16th century, the common law has
+afforded a cause of action for damage to a person’s reputation by the publication of false and defamatory
+statements.” Id. at 11.
+185. United States v. Jeffries, 692 F.3d 473, 475, 482 (6th Cir. 2012).
+186. Id. at 482.
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+2014]
+
+RAP MUSIC AND THE TRUE THREATS QUAGMIRE
+
+25
+
+But even that does not end the troubles with the vantage point issue in the true
+threats doctrine. What happens if the target of the rap message is a person who,
+although not quite completely ignorant of rap music, accepts as realities the
+negative, violent and racist stereotypes associated with gangsta rap that he has read
+about in the news media?187 Such a target might take the rap message more
+seriously as a threat if it comes from a black rapper. In brief, the racial stereotypes
+associated with gangsta rap today could possibly lead to an incorrect interpretation
+of the meaning of a rap message and the subsequent wrongful incarceration of its
+speaker.
+Yet another predicament exists when the objective approach used in a true
+threats case focuses on the viewpoint taken by an objective sender-defendant and
+whether or not he should have foreseen that the rap message would be taken as a
+threat by the recipient.188 A sender-defendant who is a rapper might easily have a
+skewed perspective about rap messages—one such that he would naturally, albeit
+perhaps naively, believe that everyone else (like himself) understands rap music’s
+conventions and would never take the words in a rap literally. In other words, there
+could be a dangerous disconnect of interpretation and understanding between the
+rap-literate defendant and the rap-ignorant target. A rap-literate defendant who was
+unaware of his target’s ignorance of rap’s conventions thus could be held
+criminally accountable for something he (wrongly) assumed the target would not
+take seriously. From a pro-First Amendment perspective, this is a troubling result
+that illustrates a flaw with the true threats doctrine. Indeed, a rap-literate defendant
+could be held liable here because he negligently or accidentally misjudged the
+perspective and view the recipient would take.
+B. A SUBJECTIVE APPROACH TO INTENT
+Under a subjective approach, a rapper-defendant is held criminally responsible
+only if he actually (subjectively) intended the rap message in question to be
+interpreted by its target as a threat of imminent bodily harm or death.189 This
+standard ramps up the First Amendment protection for the speaker, as the
+prosecution would need to demonstrate beyond a reasonable doubt—and most
+likely through circumstantial evidence—the mindset of the rapper at the time he or
+she communicated the message in question.
+A subjective intent approach also eliminates the problem that exists for
+miscommunication and misjudgment of meaning in the rap-literate defendant and
+rap-ignorant target scenario. Furthermore, a subjective intent requirement ends the
+current oddity under which the incitement-to-violence doctrine per Brandenburg v.
+Ohio entails such an intent requirement,190 but the true threats doctrine, at least as it
+now is interpreted by a majority of courts, does not.
+187. See supra Part II (describing the negative images of rap music).
+188. See supra notes 173–174 and accompanying text (describing this approach).
+189. See supra note 63 and accompanying text.
+190. See supra notes 85–89 and accompanying text (addressing Brandenburg v. Ohio, 395 U.S.
+444 (1969)).
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+26
+
+COLUMBIA JOURNAL OF LAW & THE ARTS
+
+[38:1
+
+IV. CONCLUSION
+This Article, in Part I, examined and explained the multiple problems and
+predicaments that plague the modern-day true threats doctrine. These difficulties
+and troubles range from splits of authority over whether or not the subjective intent
+of the defendant-sender is doctrinally relevant, to disagreements about the proper
+vantage point that must be taken if an objective approach to meaning is deployed,
+to the lack of clarity, in some instances, between the doctrines of true threats and
+incitement to violence.
+The Article furthermore explored, in Part II, the complicated and controversial
+nature of rap music. Significantly, it addressed the political, violent, racial, artistic
+and cultural context that surrounds the genre of rap and, more specifically, the
+subgenre of gangsta rap. It also described how rappers often adopt artificial
+personas and describe fantasy violence.
+The muddled true threats doctrine and the music known as rap collide today at a
+dangerous First Amendment intersection. The problems are not likely to go away
+soon, with one February 2014 newspaper article noting that “YouTube is awash
+with hundreds of hip-hop music videos—ranging from amateurish cellphone
+recordings to slick, nearly professional-grade productions—featuring young men
+representing various neighborhoods, brandishing guns and firing off challenges to
+rivals.”191 Beyond YouTube, violence also seems to be a key element in the
+growing commercialization of rap music that won’t soon disappear.
+Given the negative, violent and race-based stereotypes that sometimes surround
+rap music, jurors must be exposed to evidence regarding other aspects of the genre
+to help prevent them from reaching a verdict tainted by misconceptions and, worse
+yet, racism about an artistic medium. The Supreme Court now has the opportunity
+to either accept or reject this point since it has granted the petition for a writ of
+certiorari in the case of United States v. Elonis described earlier in this Article.192
+Ultimately, neither Watts nor Black—the Supreme Court’s two leading truethreats opinions—addressed or otherwise involved a dispute centering on an
+alleged threat that was cloaked in or woven into the format of a genre of artistic
+expression. While that pair of cases made it plain that context matters, the Court
+now needs to clarify how a non-traditional mode of artistic and political expression
+affects the contextual analysis and, in turn, the assumptions that can be made about
+people’s understanding (or lack thereof) of that context. The Court should also
+address whether, in fact, the actual knowledge of the target or recipient with the
+genre (as described earlier in this Article, a rap-literate target versus a rap-ignorant
+target) should be considered, not simply what a reasonable target would
+hypothetically and speculatively know.
+Furthermore, the Court must adopt a test that, at minimum, considers the
+191. Robert Rogers, Cyberspace Emerges as Law Enforcement’s New Battleground, SAN JOSE
+MERCURY NEWS (Feb. 21, 2014), http://perma.cc/H3WX-YS37.
+192. Elonis v. United States, 134 S. Ct. 2819 (2014) (grant of certiorari); see Supreme Court of the
+U.S., October Term 2014, Monthly Oral Argument Calendar for the Session Beginning December 1,
+2014 (2014), available at http://perma.cc/KDB9-HPAT (oral argument schedule).
+
+CALVERT ET AL., RAP MUSIC AND THE TRUE THREATS QUAGMIRE, 38 COLUM. J.L. & ARTS 1 (2014)
+
+2014]
+
+RAP MUSIC AND THE TRUE THREATS QUAGMIRE
+
+27
+
+perspective of a speaker-defendant who is familiar with the artistic genre in
+question, even if the Court also and additionally requires that the perspective of a
+reasonable recipient or a reasonable target be considered. To only consider the
+perspective of a reasonable recipient or target means that a speaker-defendant could
+be criminally punished for something that is, quite literally, lost in translation.
+
+
