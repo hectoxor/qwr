@@ -1,0 +1,1 @@
+HDI is a measure of well being that includes health (measured with life expectancy), wealth (measured with GDP per capita), and education (measured with an education index), that can be used to compare countries' social and economic development, as well as track this development over time.
