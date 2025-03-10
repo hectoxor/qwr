@@ -67,3 +67,6 @@
 - Some unemployment is natural and healthy for economy
 - Zero unemployment would mean zero job mobility
 - Decreasing unemployment rate isn't always positive (could mean discouraged workers)
+
+
+Unemployed rate can only be 2 types, when there is afull employemnt output (aligning with PPC curve) and when it's not. If yes, the unemployment rate equals to natural unemployment rate (structural + frictional). And cyclical equals to zero
