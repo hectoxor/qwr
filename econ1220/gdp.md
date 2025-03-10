@@ -10,3 +10,16 @@ GDP is measured by taking the quantities of all final goods and services produce
 - The expenditures approach represents aggregate demand (the demand for all goods and services in an economy) and can be divided into consumption, investment, government spending, exports, and imports. What is produced in the economy can be divided into durable goods, nondurable goods, services, structures, and inventories.
 - To avoid double counting—adding the value of output to the GDP more than once—GDP counts only final output of goods and services, not the production of intermediate goods or the value of labor in the chain of production.
 - The gap between exports and imports is called the trade balance. If a nation's imports exceed its exports, the nation is said to have a trade deficit. If a nation's exports exceed its imports, it is said to have a trade surplus.
+
+
+GDP = C + I + G + (X - M)
+
+C (Consumption): Household spending on goods and services
+
+I (Investment): Business spending on capital goods, inventory, and construction
+
+G (Government): Government spending on goods and services
+
+X (Exports): Value of goods produced domestically but sold abroad
+
+M (Imports): Value of goods produced abroad but purchased domestically

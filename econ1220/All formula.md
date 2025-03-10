@@ -25,3 +25,16 @@ Inflation rate = Nominal GDP growth - Real GDP growth
 
 
 Quantity Theory: Money growth = Inflation + Real GDP growth (when velocity is constant)
+
+
+GDP = C + I + G + (X - M)
+
+C (Consumption): Household spending on goods and services
+
+I (Investment): Business spending on capital goods, inventory, and construction
+
+G (Government): Government spending on goods and services
+
+X (Exports): Value of goods produced domestically but sold abroad
+
+M (Imports): Value of goods produced abroad but purchased domestically
