@@ -3,7 +3,7 @@
 ## Key Definitions
 - **Inflation**: The general and ongoing rise in the level of prices in an economy
 - **Price Level**: Measured using a hypothetical basket of goods and services that represents typical consumer purchases
-- **Inflation Rate**: The percentage change in price levels over time
+- **Inflation Rate**: The percentage change in price levels over time (year to year or etc)
 - **Index Number**: A unit-free number derived from price levels that simplifies inflation rate calculations
 
 ## How Price Levels Are Measured

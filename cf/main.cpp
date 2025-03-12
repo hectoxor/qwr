@@ -17,29 +17,41 @@ void solve() {
     for (int i = 0; i < n; i++) {
         cin >> a[i];
     }
-    
-    // TODO: Write your solution here
-    
-    // Example output
-    int result = 0;
-    for(int x : a) result += x;
-    cout << result << "\n";
+    vector <int> dp(n+1);
+    dp[0] = 0;
+ 
+    for (int i = 0 ; i < n;i++){
+        for (int j = 1;j <=a[i]; j++){
+            if(dp[i+j] == 0){
+                dp[i+j] = dp[i] + 1;
+            }
+            else{ 
+                dp[i+j] = min(dp[i+j], dp[i] + 1);
+            }
+        }
+
+    }
+    cout<<dp[n-1]<<endl;
+
+
+
+
 }
 
 int main() {
     fastIO();
     
     int t = 1;
-    cin >> t;  // Comment this line if there is only one test case
+    //cin >> t;  // Comment this line if there is only one test case
     
     while (t--) {
         solve();
     }
     
     // Add pause to keep console window open
-    cout << "\nPress Enter to continue...";
     cin.ignore();
     cin.get();
     
     return 0;
 }
+
