@@ -1,4 +1,4 @@
-Inflation Rate = ((Current Deflator - Previous Deflator) ÷ Previous Deflator) × 100
+Inflation Rate = ((Current Deflator - Previous Deflator) ÷ Previous Deflator) × 100 (same with CPI in substitute with GDP deflator)
 
 GDP Deflator = (Nominal GDP ÷ Real GDP) × 100
 
