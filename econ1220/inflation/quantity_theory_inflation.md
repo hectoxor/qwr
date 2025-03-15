@@ -137,3 +137,12 @@ Money supply growth = 5% (2% + 3%)
    - Long-run inflation forecasting
    - Monetary policy planning
    - Understanding hyperinflation causes
+
+
+Questions:
+- what causes inflation in the long run?
+
+  - Money grows faster than real production
+- what causes deflation in the long run?
+  - Real production grows faster than money
+
