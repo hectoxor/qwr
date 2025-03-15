@@ -151,3 +151,5 @@ Inflation rate = [(CPI_new - CPI_old) / CPI_old] × 100
 
 3. Practice Problem: The CPI in the nation of Montrose was 220 in 2016 and 200 in 2015. What is the rate of inflation between 2015 and 2016?
    - Inflation rate = [(220 - 200) ÷ 200] × 100 = 10%
+
+In macroeconomics, the classical dichotomy is the idea, attributed to classical and pre-Keynesian economics, that real and nominal variables can be analyzed separately. 
