@@ -37,7 +37,7 @@ def pdf_to_text(pdf_path, output_path=None):
                     
             print(f"Conversion complete! Text saved to: {output_path}")
             return output_path
-            
+        
     except Exception as e:
         print(f"Error converting PDF: {e}")
         return None
