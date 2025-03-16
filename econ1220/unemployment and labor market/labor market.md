@@ -16,41 +16,6 @@
   - Example: A car wash worker adds 4 cars/hour at $7/car → VMPL = $28. If wage = $15, hire the worker.  
 - **Labor Supply**: Workers trade off leisure and work. Higher wages incentivize more work (substitution effect > income effect).  
 
----
-
-#### **2. Types of Unemployment**  
-1. **Frictional Unemployment**:  
-   - Short-term unemployment during job transitions (e.g., graduates seeking jobs, workers quitting to find better roles).  
-   - **Example**: A restaurant worker temporarily laid off but expecting recall.  
-
-2. **Structural Unemployment**:  
-   - Long-term mismatch between worker skills/job locations and employer needs.  
-   - **Causes**: Technology (e.g., self-driving cars replacing drivers), globalization (e.g., offshoring manufacturing).  
-   - **Example**: Toll collectors replaced by electronic systems.  
-
-3. **Cyclical Unemployment**:  
-   - Tied to business cycles (rises in recessions, falls in expansions).  
-   - **Example**: Construction workers laid off during the 2008 financial crisis.  
-
-**Special Cases**:  
-- **Discouraged Workers**: Leave the labor force after prolonged job search failures.  
-- **Marginally Attached Workers**: Want jobs but stopped searching in the last 4 weeks.  
-
----
-
-#### **3. Measuring Unemployment**  
-- **Unemployment Rate** = (Unemployed / Labor Force) × 100.  
-  - **Labor Force**: Employed + Unemployed (actively seeking work in the last 4 weeks).  
-  - Excludes discouraged workers and marginally attached individuals.  
-- **Labor Force Participation Rate** = (Labor Force / Working-Age Population) × 100.  
-- **Employment-to-Population Ratio** = (Employed / Working-Age Population) × 100.  
-
-**Example (June 2023)**:  
-- Working-age population = 266.8M  
-- Labor force = 167.0M → Participation Rate = 62.6%.  
-- Unemployed = 6.0M → Unemployment Rate = 3.6%.  
-
----
 
 #### **4. Labor Market Shifts**  
 **Demand Shifts**:  
