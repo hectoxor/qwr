@@ -53,3 +53,7 @@ If Market Rate < PPP Rate: Currency undervalued
 ```
 
 Remember: PPP helps compare living standards across countries by accounting for different price levels.
+
+ppp is used to compare countries' standart living by comparing the cost of baskets that someone can purchase by using GDP per capita
+
+![alt text](image.png)

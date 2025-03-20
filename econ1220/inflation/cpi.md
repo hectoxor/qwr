@@ -8,7 +8,7 @@
 ## Core Inflation Index vs. Regular CPI
 
 ### Regular CPI
-- Includes ALL consumer goods and services
+- Includes ALL Fconsumer goods and services
 - **Purpose**: Helps households understand their overall cost of living month-to-month
 - **Example**: If gas prices spike temporarily due to a hurricane, CPI will show this increase
 

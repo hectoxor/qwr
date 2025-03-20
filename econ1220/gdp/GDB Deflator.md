@@ -32,6 +32,6 @@ Consider the adjacent graph depicting the value of the GDP deflator in Utopia fr
 
 
 
-![alt text](image.png)
+![alt text](image1.png)
 
 
