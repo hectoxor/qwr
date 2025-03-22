@@ -1,4 +1,88 @@
 # Chapter 1: Financial Statements
+### **Chapter 1: Financial Statements and Business Decisions**  
+**Textbook:** *Financial Accounting, 11e (Libby, Libby, Hodge)*  
+
+---
+
+#### **Key Learning Objectives**  
+1. **Understand the Four Basic Financial Statements**:  
+   - **Balance Sheet**: Snapshot of assets, liabilities, and equity at a point in time.  
+   - **Income Statement**: Performance over a period (revenues - expenses = net income).  
+   - **Statement of Stockholders’ Equity**: Changes in equity (common stock and retained earnings).  
+   - **Statement of Cash Flows**: Cash inflows/outflows categorized into operating, investing, and financing activities.  
+2. **Role of GAAP**: Rules governing financial reporting, enforced by the SEC and formulated by FASB.  
+
+---
+
+#### **Users of Financial Information**  
+- **External Users**: Investors, creditors, regulators, customers.  
+- **Internal Users**: Managers, employees (e.g., marketing, HR).  
+
+---
+
+#### **Four Basic Financial Statements**  
+1. **Balance Sheet**  
+   - **Equation**: Assets = Liabilities + Stockholders’ Equity  
+   - **Assets**: Resources owned (e.g., cash, accounts receivable, inventory, PPE).  
+   - **Liabilities**: Obligations (e.g., accounts payable, notes payable).  
+   - **Equity**: Common stock + Retained Earnings.  
+   - **Structure**: Assets listed by liquidity; liabilities by maturity.  
+
+2. **Income Statement**  
+   - **Equation**: Revenues - Expenses = Net Income  
+   - **Revenues**: Sales, fees, interest.  
+   - **Expenses**: COGS, wages, depreciation, taxes.  
+   - **Accrual Basis**: Recognize revenues/expenses when earned/incurred (not when cash is exchanged).  
+
+3. **Statement of Stockholders’ Equity**  
+   - **Components**:  
+     - *Common Stock*: Investments by shareholders.  
+     - *Retained Earnings*: Net income - dividends.  
+   - **Formula**:  
+     - Ending Retained Earnings = Beginning Retained Earnings + Net Income - Dividends.  
+
+4. **Statement of Cash Flows**  
+   - **Categories**:  
+     - Operating (day-to-day activities),  
+     - Investing (buying/selling assets),  
+     - Financing (debt/equity transactions).  
+
+---
+
+#### **Key Concepts**  
+- **GAAP (Generally Accepted Accounting Principles)**:  
+  - Formulated by FASB; ensures consistency and accuracy.  
+  - SEC oversees compliance for public companies.  
+- **Accrual vs. Cash Basis**:  
+  - **Accrual**: Records transactions when earned/incurred (required for public companies).  
+  - **Cash Basis**: Records transactions when cash is exchanged (used by small businesses).  
+
+---
+
+#### **Business Entities**  
+1. **Sole Proprietorship**: Owned by one person; unlimited liability.  
+2. **Partnership**: Owned by multiple individuals; shared liability.  
+3. **Corporation**:  
+   - *Advantages*: Limited liability, continuity, ease of ownership transfer.  
+   - *Disadvantage*: Double taxation (corporate income + dividends taxed).  
+
+---
+
+#### **Self-Study Highlights**  
+- **Balance Sheet Example** (Le-Nature’s Inc.): Total assets ($527.4M) = Liabilities ($407.7M) + Equity ($119.7M).  
+- **Income Statement Recognition**: Sales revenue ($275.1M) recognized when goods/services are delivered, not when cash is received.  
+- **Retained Earnings Calculation**:  
+  - Ending RE = Beginning RE + Net Income - Dividends.  
+
+---
+
+#### **Important Notes**  
+- **Footnotes**: Integral part of financial statements; provide context and details (e.g., accounting policies, contingencies).  
+- **Financial Analysis**: Creditors focus on liquidity and debt repayment ability; investors focus on profitability and growth.  
+
+---
+
+**Summary**: Financial statements are tools for decision-making. Understanding their structure, content, and the principles behind them (GAAP) is critical for evaluating a company’s financial health.
 
 ## Key Financial Statements
 
